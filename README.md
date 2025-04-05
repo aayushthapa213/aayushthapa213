@@ -1,3 +1,4 @@
+   ![image](https://github.com/user-attachments/assets/6d35dd91-bbd1-4805-b6a9-8fe863d79b4c)
 # 💫 About Me:
 👋 Hi there! I'm a BCA student with a growing passion for Machine Learning and tech.<br>🔭 I’m currently working on learning and experimenting with Machine Learning projects.<br>👯 I’m looking to collaborate on beginner-friendly ML or web-based projects.<br>💬 Ask me about web development, BCA life, or how I got into ML.<br>⚡ Fun fact: I love blending creativity with tech — from coding to storytelling!<br>🎯 Always learning, always growing. Open to collaboration and new opportunities!
 
